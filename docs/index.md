@@ -1,5 +1,5 @@
 ## Game Design Pillars
-
+<img src="https://static.wikia.nocookie.net/videojuego/images/9/9e/TheLastOfUs.jpg/revision/latest?cb=20140325215038"> 
 You can use the [editor on GitHub](https://github.com/fakefarreraspol/GameDesignPillars/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
