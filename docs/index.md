@@ -14,6 +14,9 @@ Every game tend to have from 3 to 8 fundamental game pillars to be based on, pil
 -Game pillars are good for lots of reasons: Pillars can help your team to understand how the development of the project will be and how it's going to be done. <br />
 -They are usefull to delimit the project
 -Pillars indicate if one decisicion fits on the game.
-<img src="https://i2.wp.com/onepathnetwork.com/wp-content/uploads/2018/02/pillars.jpg?fit=650%2C366&ssl=1">
+<p align="center">
+  <img src="https://i2.wp.com/onepathnetwork.com/wp-content/uploads/2018/02/pillars.jpg?fit=650%2C366&ssl=1">
+</p>
+
 <img src="https://static.wikia.nocookie.net/videojuego/images/9/9e/TheLastOfUs.jpg/revision/latest?cb=20140325215038"> 
 
