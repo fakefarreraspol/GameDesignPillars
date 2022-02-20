@@ -60,3 +60,37 @@ The pillars of this game are: <br />
 **Combat:** New combat system.<br />
 **Narrative:** Origins of the AC saga.<br />
 **Exploration:** Player can climb everywhere and find lots of treasures.<br />
+
+
+## How to create Good Game Pillars
+<p align="center">
+  <img src="https://ane4bf-datap1.s3-eu-west-1.amazonaws.com/wmocms/s3fs-public/ckeditor/files/good_practice_2_0.png?zUWmBhjgYe6ek0L68YTRnUCQZo9lJo4v"> 
+</p> <br />
+To create good game pillars that fit in our game we have to follow some steps: <br />
+1: First, because we don't have ideas we have to do a Brain Storming to think about how our game can be.<br />
+2: With the ideas from the brain Storming, we have to create three blocks<br />
+   **Before Playing**: Things that the player will take in count, the art, ui...<br />
+   **During game**: Gameplay, mechanics...<br />
+   **After Playing**: Ideas related with replayability.<br />
+3: Now we have to pass the idea through this filter:<br />
+<p align="center">
+  <img src="https://orioldedios.github.io/Game-Design-Pillars/docs/Filters_1.png"> 
+</p> <br />
+
+4: At the end if the ideas could pass the filters, we have to ensure that these ideas are original.<br />
+  Is the game pillar already on a game? If your answer is yes, then this pillar is declined.<br />
+  
+
+## Bad game Pillars
+
+How can we identify if a pillar is bad? here are some examples of bad game pillars: <br />
+
+**Empty words**: Every pillar has to answer the question "How can we do it?" if the answer is I don't know or something ambiguous, then this is a bad pillar. <br />
+**Tasks**: Establishing a task as a Game design pillar, for example colorfull UI. Pllars must synthesize an idea brievely.<br />
+**Technical Concepts**: Although we have to take in count technical concepts while designing, having one of them as a pillar is a bad idea.<br />
+Others:<br />
+<p align="center">
+  <img src="https://orioldedios.github.io/Game-Design-Pillars/docs/Bad_game_pillars.png"> 
+</p> <br />
+
+**How to not destroy a game
