@@ -93,7 +93,7 @@ Others:<br />
   <img src="https://orioldedios.github.io/Game-Design-Pillars/docs/Bad_game_pillars.png"> 
 </p> <br />
 
-** How to not destroy a game
+## How to not destroy a game
 Game design is always changing and this means we will make changes and additions during the process: new mechanics, items, etc.<br />
 -We have to be loyal to the game pillars or we will change completely the original design of the game.<br />
 -If we make too many changes in our design, game may not be finished,<br />
