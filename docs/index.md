@@ -34,7 +34,7 @@ The pillars of this game are: <br />
 ***The Legend of Zelda: Breath of the Wild*** <br />
 <p align="center">
   <img src="https://howlongtobeat.com/games/38019_The_Legend_of_Zelda_Breath_of_the_Wild.jpg"> 
-</p>
+</p> <br />
 
 The pillars of this game are: <br />
 **Exploration:** Player is encouraged to explore, player can find treasures, new abilities, and teleport whenever he wants.<br />
@@ -45,7 +45,7 @@ The pillars of this game are: <br />
 ***God Of War 2018*** <br />
 <p align="center">
   <img src="https://m.media-amazon.com/images/M/MV5BMmVjMzkyYWMtNDNhNi00ZWI3LTgxNGUtODRkMWYxNjZmNDI5XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg"> 
-</p>
+</p> <br />
 The pillars of this game are: <br />
 **Combat:** New mechanics from the other god of wars.<br />
 **Father/Son:** Kratos is more humanized and acts like a father, relationship...<br />
@@ -55,8 +55,8 @@ The pillars of this game are: <br />
 ***Assassins creed Origins*** <br />
 <p align="center">
   <img src="https://image.api.playstation.com/cdn/EP0001/CUSA05625_00/6OhEbwPSI4Vy8AtS8PgP1jVxQLVvTmX7.png"> 
-</p>
+</p> <br />
 The pillars of this game are: <br />
-**Combat:** New combat system.
-**Narrative:** Origins of the AC saga.
-**Exploration:** Player can climb everywhere and find lots of treasures.
+**Combat:** New combat system.<br />
+**Narrative:** Origins of the AC saga.<br />
+**Exploration:** Player can climb everywhere and find lots of treasures.<br />
