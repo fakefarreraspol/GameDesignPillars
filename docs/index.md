@@ -5,8 +5,10 @@ Game pillars are the parameters that delimitate the process of production and de
 Every game has different game pillars, depending on what de designers want to create, and these pillars will be the characteristics that the videogame will take more in consideration in its creation. <br />
 Every game tend to have from 3 to 8 fundamental game pillars to be based on, pillars have to be respected when they are stablished. 
 
+<p align="center">
+  <img src="https://static.wixstatic.com/media/8582ec_f097ac23895a4421af97640fb79786af~mv2.png/v1/fit/w_200%2Ch_200%2Cal_c/file.png"> 
+</p>
 
-<img src="https://static.wixstatic.com/media/8582ec_f097ac23895a4421af97640fb79786af~mv2.png/v1/fit/w_200%2Ch_200%2Cal_c/file.png"> 
 
 # Why are they good?
 -Game pillars are good for lots of reasons: Pillars can help your team to understand how the development of the project will be and how it's going to be done. <br />
