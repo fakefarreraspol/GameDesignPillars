@@ -93,4 +93,22 @@ Others:<br />
   <img src="https://orioldedios.github.io/Game-Design-Pillars/docs/Bad_game_pillars.png"> 
 </p> <br />
 
-**How to not destroy a game
+** How to not destroy a game
+Game design is always changing and this means we will make changes and additions during the process: new mechanics, items, etc.<br />
+-We have to be loyal to the game pillars or we will change completely the original design of the game.<br />
+-If we make too many changes in our design, game may not be finished,<br />
+-Everything we put has to be relevant on the game, we can't add something that has nothing to do we the game.<br />
+-If we copy the pillars from an other game and want to change one we can destroy the game creating for example unbalance or non-working mechanics.<br />
+
+<p align="center">
+  <img src="https://orioldedios.github.io/Game-Design-Pillars/docs/Filters_3.png"> 
+</p> <br />
+
+### Resources
+https://segmentnext.com/assassins-creed-origins-director-talks-3-pillars-game/#:~:text=Guesdon%20amongst%20others%20talked%20about,polished%20title%20in%20the%20end.
+https://www.raspberrypi.com/news/how-pillars-and-triangles-can-focus-your-game-design/
+https://acagamic.com/free-courses/intro-to-game-design/communication-and-game-design-documents/
+https://orioldedios.github.io/Game-Design-Pillars/
+http://gdu.io/blog/game-design-document-template-one-page-super-easy/
+https://www.gamedeveloper.com/design/design-pillars-the-core-of-your-game
+https://technicalgamedesign.blogspot.com/2011/04/pillars.html
