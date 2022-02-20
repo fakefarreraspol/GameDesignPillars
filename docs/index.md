@@ -56,3 +56,7 @@ The pillars of this game are: <br />
 <p align="center">
   <img src="https://image.api.playstation.com/cdn/EP0001/CUSA05625_00/6OhEbwPSI4Vy8AtS8PgP1jVxQLVvTmX7.png"> 
 </p>
+The pillars of this game are: <br />
+**Combat:** New combat system.
+**Narrative:** Origins of the AC saga.
+**Exploration:** Player can climb everywhere and find lots of treasures.
