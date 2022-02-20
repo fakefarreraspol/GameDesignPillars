@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Game Design Pillars
 
 You can use the [editor on GitHub](https://github.com/fakefarreraspol/GameDesignPillars/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
