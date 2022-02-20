@@ -105,10 +105,10 @@ Game design is always changing and this means we will make changes and additions
 </p> <br />
 
 ### Resources
-https://segmentnext.com/assassins-creed-origins-director-talks-3-pillars-game/#:~:text=Guesdon%20amongst%20others%20talked%20about,polished%20title%20in%20the%20end.
-https://www.raspberrypi.com/news/how-pillars-and-triangles-can-focus-your-game-design/
-https://acagamic.com/free-courses/intro-to-game-design/communication-and-game-design-documents/
-https://orioldedios.github.io/Game-Design-Pillars/
-http://gdu.io/blog/game-design-document-template-one-page-super-easy/
-https://www.gamedeveloper.com/design/design-pillars-the-core-of-your-game
-https://technicalgamedesign.blogspot.com/2011/04/pillars.html
+https://segmentnext.com/assassins-creed-origins-director-talks-3-pillars-game/#:~:text=Guesdon%20amongst%20others%20talked%20about,polished%20title%20in%20the%20end. <br />
+https://www.raspberrypi.com/news/how-pillars-and-triangles-can-focus-your-game-design/ <br />
+https://acagamic.com/free-courses/intro-to-game-design/communication-and-game-design-documents/ <br />
+https://orioldedios.github.io/Game-Design-Pillars/ <br />
+http://gdu.io/blog/game-design-document-template-one-page-super-easy/ <br />
+https://www.gamedeveloper.com/design/design-pillars-the-core-of-your-game <br />
+https://technicalgamedesign.blogspot.com/2011/04/pillars.html <br />
