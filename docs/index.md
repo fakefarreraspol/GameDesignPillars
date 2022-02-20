@@ -18,7 +18,7 @@ Every game tend to have from 3 to 8 fundamental game pillars to be based on, pil
   <img src="https://i2.wp.com/onepathnetwork.com/wp-content/uploads/2018/02/pillars.jpg?fit=650%2C366&ssl=1">
 </p>
 <br />
-## Some examples
+## Some examples <br />
 ***The Last of Us*** <br />
 <p align="center">
   <img src="https://www.elsoldeacapulco.com.mx/incoming/yp8chj-the-last-of-us.jpg/ALTERNATES/LANDSCAPE_400/The%20last%20of%20us.jpg">
