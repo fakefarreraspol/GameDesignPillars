@@ -19,14 +19,24 @@ Every game tend to have from 3 to 8 fundamental game pillars to be based on, pil
 </p>
 
 #Some examples
-***The Last of Us***
-<img src="https://static.wikia.nocookie.net/videojuego/images/9/9e/TheLastOfUs.jpg/revision/latest?cb=20140325215038"> 
-The pillars of this game will be:
+***The Last of Us*** <br />
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/videojuego/images/9/9e/TheLastOfUs.jpg/revision/latest?cb=20140325215038">
+</p>
+ 
+The pillars of this game are: <br />
 **Crafting:** There are lots of objects in the map which you can use to create other usefull things to continue your adventure. <br />
 **Story:** The story of the the game is one of its main characteristics, there's also a very good environmental storytelling. <br />
 **AI Partners:** The game creates a relationship with characters that accompany you during the game. <br />
 **Stealth:** Although combat is required during the game, resources aren't unlimited and there are times when you have to use your stealth to avoid a fight. <br /> <br /> <br />
 
 
-***The Legend of Zelda: Breath of the Wild***
-<img src="https://howlongtobeat.com/games/38019_The_Legend_of_Zelda_Breath_of_the_Wild.jpg"> 
+***The Legend of Zelda: Breath of the Wild*** <br />
+<p align="center">
+  <img src="https://howlongtobeat.com/games/38019_The_Legend_of_Zelda_Breath_of_the_Wild.jpg"> 
+</p>
+
+The pillars of this game are: <br />
+**Exploration:** Player is encouraged to explore, player can find treasures, new abilities, and teleport whenever he wants.<br />
+**Movement:** Many ways to move around the map: walking, running, horse, gliding, teleportation, riding an object with an ability...<br />
+**Options:** The game offers you many ways to solve puzzles or just what enemy you want to defeat first...<br /><br /><br />
