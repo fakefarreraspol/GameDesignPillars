@@ -18,5 +18,15 @@ Every game tend to have from 3 to 8 fundamental game pillars to be based on, pil
   <img src="https://i2.wp.com/onepathnetwork.com/wp-content/uploads/2018/02/pillars.jpg?fit=650%2C366&ssl=1">
 </p>
 
+#Some examples
+***The Last of Us***
 <img src="https://static.wikia.nocookie.net/videojuego/images/9/9e/TheLastOfUs.jpg/revision/latest?cb=20140325215038"> 
+The pillars of this game will be:
+**Crafting:** There are lots of objects in the map which you can use to create other usefull things to continue your adventure. <br />
+**Story:** The story of the the game is one of its main characteristics, there's also a very good environmental storytelling. <br />
+**AI Partners:** The game creates a relationship with characters that accompany you during the game. <br />
+**Stealth:** Although combat is required during the game, resources aren't unlimited and there are times when you have to use your stealth to avoid a fight. <br /> <br /> <br />
 
+
+***The Legend of Zelda: Breath of the Wild***
+<img src="https://howlongtobeat.com/games/38019_The_Legend_of_Zelda_Breath_of_the_Wild.jpg"> 
